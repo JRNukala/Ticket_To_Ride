@@ -5,8 +5,9 @@ Project Description : A digital recreation of the classic board game Ticket to R
 Run Instructions : It runs in 1 python file and all the images are in the folder to make it easy to run
 
 1. Unzip the TP3.zip file
-2. Move CMU_Graphics Module into the src Folder
-3. Go to Visual Studio Code and run the Term_Project.py file
+2. Download CMU_Graphics Module on the web and get the folder
+3. Move CMU_Graphics Module into the src Folder
+4. Go to Visual Studio Code and run the Term_Project.py file
 That's it!
 
 Shortcut Commands:
